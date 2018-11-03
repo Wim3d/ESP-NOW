@@ -1,6 +1,8 @@
 /*
    Remote for Sonoff via ESP-NOW and MQTT as backup
    Status LED is connected 
+   ESP - NOW communication based on by Dani No www.esploradores.com
+   http://www.esploradores.com/practica-6-conexion-esp-now/
 */
 
 #include <ESP8266WiFi.h>
